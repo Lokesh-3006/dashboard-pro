@@ -1,0 +1,10 @@
+
+.lineStyles {
+  border: 0;
+  border-radius: 50;
+  width: 100%;
+  max-width: 100%;
+  color: #f00;
+  background-color: #f00;
+  height: 4;
+}

@@ -1,0 +1,38 @@
+.sub-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    flex: 1 1 auto;
+}
+
+.para{
+    margin-bottom: 0;
+    font-size: 25px;
+}
+
+.rdt_TableCol{
+    border-left: 1px solid #ccc;
+    
+}
+
+.rdt_TableCol:first-child{
+    border: 0;
+   
+}
+
+.rdt_TableCell{
+    border-left: 1px solid #ccc;
+     
+} 
+
+.rdt_TableCell:first-child{
+    border: 0;
+    color: #ffc107;
+    font-weight: bold;
+}
+
+/* .rdt_Table{
+    font-weight: bold;
+} */

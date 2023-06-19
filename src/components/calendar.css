@@ -1,0 +1,16 @@
+.container{
+    border:none
+}
+.react-calendar__navigation{
+    margin: 0;
+}
+
+.react-calendar{
+ margin: 0;
+  width: 100%;
+}
+
+.react-calendar__tile--active{
+    background: #ffc107;
+}
+

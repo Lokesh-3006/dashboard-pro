@@ -1,0 +1,11 @@
+.third-graph {
+   align-self: start;
+    margin-bottom: 0;
+}
+
+/* @media screen and (max-width:530px){
+    .third-graph{
+         width: 100%;
+         max-width: 100%;
+    }
+} */

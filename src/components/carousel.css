@@ -1,0 +1,8 @@
+.carousel-image{
+        height: 170px; 
+        width: 400;   
+}
+
+.vstack{
+        flex:0 1 auto;
+}

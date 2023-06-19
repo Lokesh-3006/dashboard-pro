@@ -1,0 +1,30 @@
+.icons-container{
+    background-color: white;
+    display:flex;
+    flex-direction:column;
+    margin: 10px;
+    width:45px;
+    border-radius: 20px;
+    height:300px;
+}
+
+.icons{
+    padding: 5px;
+    width:45px;
+    height:30px;
+}
+
+.bottom-icon{
+    background-color: white;
+    border-radius: 40px;
+    margin: 10px;
+    width:45px;
+    height:30px
+}
+
+.icon-top-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
